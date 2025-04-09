@@ -1,6 +1,6 @@
 # Small Language Models
 
-Tis project aims to implement the Virterbi algorithm in part-of-speech (POS) tagging, as well as language modelling using Hidden Markov Models (HMMs), with unigrams and bigrams.
+Tis project aims to implement the Virterbi algorithm in part-of-speech (POS) tagging, as well as language modelling using Hidden Markov Models (HMMs), and Bigram models.
 
 ## Setup
 
